@@ -21,9 +21,9 @@ API Description:
        API Type : POST
        Path : BASE URL + /user/create
        Request Params : 
-                name : Sarthak
-                email : sarthak@gmail.com
-                addressPincode : 757043
+                name : {name}
+                email : {email}
+                addressPincode : {pincode}
 
 Request Sample
 ![image](https://user-images.githubusercontent.com/40289413/181770213-c3ae089d-c2ec-417d-995d-78422be7c695.png)
