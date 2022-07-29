@@ -34,7 +34,7 @@ Response Sample
 
     2. API Name : Fetch User
        API Type : GET
-       Path BASE_URL + /user/{userId}
+       Path : BASE_URL + /user/{userId}
 
 Request Sample
 ![image](https://user-images.githubusercontent.com/40289413/181770039-935ef906-90e3-4815-98aa-f1bd37e3f545.png)
