@@ -16,6 +16,7 @@ Steps:
           Table : Users
 
 API Description:
+
     1. API Name : Create User
        API Type : POST
        Path : BASE URL + /user/create
@@ -25,7 +26,8 @@ API Description:
                 addressPincode : 757043
 
 Request Sample
-![image](https://user-images.githubusercontent.com/40289413/181768517-aa488d0b-6cfc-4f94-9973-6b402405f53c.png)
+![image](https://user-images.githubusercontent.com/40289413/181770213-c3ae089d-c2ec-417d-995d-78422be7c695.png)
+
 
 Response Sample
 ![image](https://user-images.githubusercontent.com/40289413/181768908-647f4a13-58b6-4058-a2b0-d04252f28b6e.png)
