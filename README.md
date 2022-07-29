@@ -1,6 +1,6 @@
 Neosave
 
-Steps:
+Steps to run the application:
 
     1. Download and Install Java IDE (Eclipse, Spring Tool Suite, Intellij, etc.)
     2. Clone the project and run "mvn clean install -Dskiptests" for building the project.
